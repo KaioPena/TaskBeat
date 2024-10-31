@@ -3,7 +3,7 @@
 ## This project was created to optimize time and assist in organizing daily or weekly tasks. Tasks can be divided into categories such as Work, Leisure, Health, or any other category the user needs to create.
 
 ## Screenshots
-![WhatsApp Image 2024-10-31 at 14 17 58](https://github.com/user-attachments/assets/ae454b18-41ab-4973-a163-9c1ad200874a)
+![WhatsApp Image 2024-10-31 at 14 17 58](https://github.com/user-attachments/assets/ae454b18-41ab-4973-a163-9c1ad200874a) width="200"
 ![WhatsApp Image 2024-10-31 at 14 17 58 (1)](https://github.com/user-attachments/assets/5b226366-889d-4fff-ad41-17320f1433ad)
 ![WhatsApp Image 2024-10-31 at 14 17 58 (2)](https://github.com/user-attachments/assets/251545f3-125c-453d-b1c5-05526ddca51f)
 ![WhatsApp Image 2024-10-31 at 14 17 58 (3)](https://github.com/user-attachments/assets/091da1d3-459d-487e-9526-ebff2a416993)

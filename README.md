@@ -12,3 +12,15 @@
 <img src="https://github.com/user-attachments/assets/ded24f38-bd57-4d0a-9e0c-37726474b371" width=200/>
 <img src="https://github.com/user-attachments/assets/7496caef-b1e2-4a24-a8a1-2c97e1ce079a" width=200/>
 </p>
+
+##Technologies
+•	Kotlin: Primary programming language.
+	•	Android Jetpack:
+	•	Room: Local data persistence using SQLite.
+	•	ViewModel and LiveData (presumed): For managing data lifecycle with MVVM architecture.
+	•	RecyclerView: Used to display lists of categories and tasks.
+	•	Material Design Components: Including FloatingActionButton and Snackbar for modern UI.
+	•	Coroutines: GlobalScope and Dispatchers.IO for asynchronous operations.
+	•	FragmentManager: For displaying BottomSheets and custom dialogs.
+	•	AndroidX: Modern dependencies like AppCompatActivity.
+	•	XML Layouts: Defining UI components.
